@@ -1,0 +1,8 @@
+GifGenerator/src/GifGenerator/node_modules/
+GifGenerator/src/GifGenerator/wwwroot/lib/
+GifGenerator/src/GifGenerator/bin/
+GifGenerator/src/GifGenerator/FileRepo/
+GifGenerator/src/GifGenerator/obj/
+GifGenerator/src/GifGenerator/Properties/launchSettings.json
+GifGenerator/.vs/config/applicationhost.config
+GifGenerator/.vs/GifGenerator/v14/.suo
